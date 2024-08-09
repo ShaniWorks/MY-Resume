@@ -62,11 +62,11 @@ body {
     .nav-links {
         display: none;
     }
-    
+
     .navbar {
         flex-direction: column;
     }
-    
+
     .logo {
         margin-bottom: 20px;
     }
